@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "571180729908",
+    "project_id": "atlas-news-68cfe",
+    "storage_bucket": "atlas-news-68cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571180729908:android:58ddabaca28b2f3cc8ac61",
+        "android_client_info": {
+          "package_name": "com.example.atlas_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571180729908-ccmpqko94f1t000m0772b7t0d2u51geb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tA4-O3WGI52LURKNb4XidoRx209GpzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571180729908-ccmpqko94f1t000m0772b7t0d2u51geb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571180729908-fuj4jofqeeqj6563kp67ddtptletdp2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.atlasNews.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571180729908:android:499b5f39c3a11a31c8ac61",
+        "android_client_info": {
+          "package_name": "com.news.atlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571180729908-ccmpqko94f1t000m0772b7t0d2u51geb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tA4-O3WGI52LURKNb4XidoRx209GpzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571180729908-ccmpqko94f1t000m0772b7t0d2u51geb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571180729908-fuj4jofqeeqj6563kp67ddtptletdp2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.atlasNews.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
